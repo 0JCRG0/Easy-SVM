@@ -4,11 +4,12 @@ Welcome to Easy-SVM! This project offers a clear, step-by-step guide for trainin
 
 Our aim is to provide an accessible step-by-step tutorial for training a model using real-world data. You'll learn about the necessity of Exploratory Data Analysis, as well as cleaning and standardizing data for subsequent use. Additionally, you'll discover how to apply techniques like SMOTE to address issues such as class imbalances.
 
+------
 # Table of Contents
-
 - [Objective](#objective)
 - [Data Overview](#data-overview)
 - [Quickstart](#quickstart)
+
 ------
 ## Objective
 Predict whether a fatal/serious casualty occurs using road traffic data about the casualty, accident, and vehicles involved.
