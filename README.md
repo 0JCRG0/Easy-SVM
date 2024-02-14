@@ -9,15 +9,14 @@ Our aim is to provide an accessible step-by-step tutorial for training a model u
 - [Objective](#objective)
 - [Data Overview](#data-overview)
 - [Quickstart](#quickstart)
-
-## Objective
 ------
+## Objective
 Predict whether a fatal/serious casualty occurs using road traffic data about the casualty, accident, and vehicles involved.
 Whether `casualty_severity` in the casualty dataset is fatal (1) or serious (2), where (3) is slight. 
 #### Note: will need to map target to binary 1 (fatal, serious) and 0 (slight).
 
-## Data Overview
 ------
+## Data Overview
 - Casualty (primary)
 	Description: Data on the person(s) involved in the casualty
 	Found as casualty_train.csv
@@ -28,6 +27,7 @@ Whether `casualty_severity` in the casualty dataset is fatal (1) or serious (2),
 	Description: Field descriptions and value mappings
 	Found as Reference
 
+------
 ## Quickstart
 
 1. **Data Preparation**: Clone the repository and navigate to the `data` directory to find the datasets ready for testing and training.
